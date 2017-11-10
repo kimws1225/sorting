@@ -1,4 +1,4 @@
-#Sorting Algorithm Collection
+# Sorting Algorithm Collection
 + selectionSort
 + insertSort
 + bubbleSort
